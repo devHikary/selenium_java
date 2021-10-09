@@ -48,3 +48,7 @@ Neste curso foi desenvolvido testes de aceitação utilizando a API do Selenium 
 - Que podemos utilizar herança, design patterns, dentre outras práticas para organizar os códigos de testes da aplicação.
 
 ### Aula 5
+
+- Que alguns testes podem falhar quando a aplicação utilizar códigos JavaScript, como por exemplo em chamadas AJAX;
+- Que é possível configurar diferentes Timeouts na API do WebDriver;
+- As boas práticas recomendadas no Guideline do Selenium WebDriver.
